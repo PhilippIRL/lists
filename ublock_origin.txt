@@ -1,0 +1,10 @@
+||ackee.adridoesthings.com^
+
+||bahn.expert/js/script.js
+||bahn.expert/api/event
+
+||glitch.ppluss.de^
+
+twitter.com##a[href$="/quick_promote_web/intro"]
+
+w2g.tv###w2g-cas-1
