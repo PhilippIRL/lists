@@ -8,3 +8,5 @@
 twitter.com##a[href$="/quick_promote_web/intro"]
 
 w2g.tv###w2g-cas-1
+
+www.soundsandbooks.com###steady-adblock-overlay-container
